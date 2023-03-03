@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanveer J.</h1>
 <h3 align="center">PhD Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjan90&label=Profile%20views&color=0e75b6&style=flat" alt="tjan90" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjan90&label=Profile%20views&color=0e75b6&style=flat" alt="tjan90" /> </p> -->
 
 - 👨‍💻 All of my projects are available at [http://tjan90.github.io/code-blog/](http://tjan90.github.io/code-blog/)
 
