@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjan90&label=Profile%20views&color=0e75b6&style=flat" alt="tjan90" /> </p> -->
 
-- 👨‍💻 All of my projects are available at [http://tjan90.github.io/code-blog/](http://tjan90.github.io/code-blog/)
+- 👨‍💻 All of my projects are available at [https://tanveerjan.com/](https://tanveerjan.com/)
 
 - 💬 Ask me about **Computer Vision, Machine Learning, Internet of Things**
 
